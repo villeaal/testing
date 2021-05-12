@@ -7,3 +7,4 @@ recode Total_Cr4 (lowest thru 8.8=0) (8.81 thru highest=1) into TOTAL4.
 do not execute.
 execute.
 virhe
+Minä täällä!
